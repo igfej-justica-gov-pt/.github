@@ -1,4 +1,4 @@
-[![](igfej.png){fig-alt="Logotipo do Instituto de Gestão Financeira e Equipamentos da Justiça, I. P."}](https://igfej.justica.gov.pt/)
+![](./igfej.png)
 
 O **Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.**, é um instituto público, dotado de autonomia administrativa e financeira e património próprio, que prossegue atribuições do Ministério da Justiça, sob a sua superintendência e tutela.
 
